@@ -1,5 +1,4 @@
 # Alice Trevail 
-(she/her)
 ### Seabird ecology, animal movement & data science
 
 ## About me
